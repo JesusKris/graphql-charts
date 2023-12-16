@@ -15,6 +15,7 @@ This project was made as a school project in [kood/Jõhvi](https://kood.tech/) (
 
 I had to query a GraphQL endpoint set up by our school. Then I had to display the data using charts.
 
+**NB! Different source control platform was used hence no commit history.**
 
 ## Technologies Used
 - [JavaScript](https://www.javascript.com/)
